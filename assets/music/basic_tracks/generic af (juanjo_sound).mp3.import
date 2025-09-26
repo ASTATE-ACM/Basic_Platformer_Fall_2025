@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://v8auvjd0rgt8"
+path="res://.godot/imported/generic af (juanjo_sound).mp3-02a4bbc8762319a17e018c320d9b2b84.mp3str"
+
+[deps]
+
+source_file="res://assets/music/basic_tracks/generic af (juanjo_sound).mp3"
+dest_files=["res://.godot/imported/generic af (juanjo_sound).mp3-02a4bbc8762319a17e018c320d9b2b84.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

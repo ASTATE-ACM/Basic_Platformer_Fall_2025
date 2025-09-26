@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bj0jf5oissf3s"
+path="res://.godot/imported/Troubadeck 11 Woof Over My Head.ogg-9ffd686132d538be8850397f5530377e.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 11 Woof Over My Head.ogg"
+dest_files=["res://.godot/imported/Troubadeck 11 Woof Over My Head.ogg-9ffd686132d538be8850397f5530377e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

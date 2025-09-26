@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b2ac4nows5g7h"
+path="res://.godot/imported/rom hack (juanjo_sound).mp3-6d9f76a609c17f1fd788baf66bc4637e.mp3str"
+
+[deps]
+
+source_file="res://assets/music/basic_tracks/rom hack (juanjo_sound).mp3"
+dest_files=["res://.godot/imported/rom hack (juanjo_sound).mp3-6d9f76a609c17f1fd788baf66bc4637e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

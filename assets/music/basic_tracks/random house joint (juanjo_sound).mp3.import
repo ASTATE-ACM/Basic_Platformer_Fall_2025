@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dyb13l4a2qrbh"
+path="res://.godot/imported/random house joint (juanjo_sound).mp3-048453d12cb42dfd2b8ed6277cb2410b.mp3str"
+
+[deps]
+
+source_file="res://assets/music/basic_tracks/random house joint (juanjo_sound).mp3"
+dest_files=["res://.godot/imported/random house joint (juanjo_sound).mp3-048453d12cb42dfd2b8ed6277cb2410b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

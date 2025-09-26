@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bl15nd2osl07j"
+path="res://.godot/imported/Troubadeck 45 Esoteric Waterfowl.ogg-4012d72dbff22f99e14744769eabd50b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 45 Esoteric Waterfowl.ogg"
+dest_files=["res://.godot/imported/Troubadeck 45 Esoteric Waterfowl.ogg-4012d72dbff22f99e14744769eabd50b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

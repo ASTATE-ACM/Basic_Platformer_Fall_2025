@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://byufci4s71nq2"
+path="res://.godot/imported/Troubadeck 12 Good King.ogg-69cc66338571362e1121016bb7049b9b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 12 Good King.ogg"
+dest_files=["res://.godot/imported/Troubadeck 12 Good King.ogg-69cc66338571362e1121016bb7049b9b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

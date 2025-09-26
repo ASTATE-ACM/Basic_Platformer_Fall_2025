@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b8bdqubablorw"
+path="res://.godot/imported/Troubadeck 54 Infinity.ogg-5af14385b35cd08137b3334f734158ff.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 54 Infinity.ogg"
+dest_files=["res://.godot/imported/Troubadeck 54 Infinity.ogg-5af14385b35cd08137b3334f734158ff.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

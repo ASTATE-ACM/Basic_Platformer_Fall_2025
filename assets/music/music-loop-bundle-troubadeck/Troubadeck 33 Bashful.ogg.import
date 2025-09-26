@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://2rvc06em3w0k"
+path="res://.godot/imported/Troubadeck 33 Bashful.ogg-36ba7d64b4eb9100f2f995458ef98ddf.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 33 Bashful.ogg"
+dest_files=["res://.godot/imported/Troubadeck 33 Bashful.ogg-36ba7d64b4eb9100f2f995458ef98ddf.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

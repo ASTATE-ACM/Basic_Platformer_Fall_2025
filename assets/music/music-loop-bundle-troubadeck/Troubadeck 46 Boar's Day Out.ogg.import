@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c5q7x4qo8q37e"
+path="res://.godot/imported/Troubadeck 46 Boar's Day Out.ogg-0fed6d806e7c764c1c1ca83be65c0bd8.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 46 Boar's Day Out.ogg"
+dest_files=["res://.godot/imported/Troubadeck 46 Boar's Day Out.ogg-0fed6d806e7c764c1c1ca83be65c0bd8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

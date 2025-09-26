@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dx8moj0hxc12e"
+path="res://.godot/imported/Troubadeck 15 Something in My Eye.ogg-1331790dc9022e5174c4a75f08f9d834.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 15 Something in My Eye.ogg"
+dest_files=["res://.godot/imported/Troubadeck 15 Something in My Eye.ogg-1331790dc9022e5174c4a75f08f9d834.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

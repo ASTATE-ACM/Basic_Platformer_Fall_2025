@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1ng2376e1e5m"
+path="res://.godot/imported/Troubadeck 48 Defender of the Clouds.ogg-8f849c997872d6a49346d04e233eb83e.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/music-loop-bundle-troubadeck/Troubadeck 48 Defender of the Clouds.ogg"
+dest_files=["res://.godot/imported/Troubadeck 48 Defender of the Clouds.ogg-8f849c997872d6a49346d04e233eb83e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
