@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cww2qgc27hb2k"
+path="res://.godot/imported/Collectibles_2.wav-c21e88367291e5ec5f657a52bf9f332f.sample"
+
+[deps]
+
+source_file="res://assets/sfx/5. Collectibles/Collectibles_2.wav"
+dest_files=["res://.godot/imported/Collectibles_2.wav-c21e88367291e5ec5f657a52bf9f332f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

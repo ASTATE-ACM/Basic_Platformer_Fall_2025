@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cyyitfdi6yt5p"
+path="res://.godot/imported/Loose_1.wav-2847c37186a6d82471187cfeae870176.sample"
+
+[deps]
+
+source_file="res://assets/sfx/2. Loose/Loose_1.wav"
+dest_files=["res://.godot/imported/Loose_1.wav-2847c37186a6d82471187cfeae870176.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dj7ttf52fo6ly"
+path="res://.godot/imported/Ambient_3.wav-dcd0cb6aaf41ba7cf096eddb318d9207.sample"
+
+[deps]
+
+source_file="res://assets/sfx/9. Ambient/Ambient_3.wav"
+dest_files=["res://.godot/imported/Ambient_3.wav-dcd0cb6aaf41ba7cf096eddb318d9207.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

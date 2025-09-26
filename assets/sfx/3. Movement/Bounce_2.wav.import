@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://kgmt1gq6s265"
+path="res://.godot/imported/Bounce_2.wav-000b823882ca6eba7d237253210c1efd.sample"
+
+[deps]
+
+source_file="res://assets/sfx/3. Movement/Bounce_2.wav"
+dest_files=["res://.godot/imported/Bounce_2.wav-000b823882ca6eba7d237253210c1efd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
