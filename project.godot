@@ -10,10 +10,10 @@ config_version=5
 
 [application]
 
-config/name="New Game Project"
+config/name="Basic Platformer Godot Fall 2025"
 run/main_scene="uid://cd7msj4l7klxg"
 config/features=PackedStringArray("4.4", "GL Compatibility")
-config/icon="res://assets/sprites/debug/icon.svg"
+config/icon="uid://p1ucxa5wbraq"
 
 [file_customization]
 
