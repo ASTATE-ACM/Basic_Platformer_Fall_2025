@@ -1,5 +1,6 @@
-[gd_scene load_steps=28 format=3 uid="uid://dwee8kavmrgih"]
+[gd_scene load_steps=29 format=3 uid="uid://dwee8kavmrgih"]
 
+[ext_resource type="Script" uid="uid://cvkmi75twrm4q" path="res://game/player/player.gd" id="1_8soms"]
 [ext_resource type="Texture2D" uid="uid://s8hrjlfdqkvb" path="res://assets/sprites/Main Characters/Virtual Guy/Idle (32x32).png" id="1_b2mth"]
 [ext_resource type="Texture2D" uid="uid://bfp7eo1dk0xow" path="res://assets/sprites/Main Characters/Virtual Guy/Run (32x32).png" id="2_8soms"]
 
@@ -133,7 +134,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"idle",
-"speed": 5.0
+"speed": 15.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -180,12 +181,14 @@ animations = [{
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_y6drd"]
 size = Vector2(22, 26)
 
-[node name="Player" type="CharacterBody2D"]
+[node name="Player" type="CharacterBody2D" node_paths=PackedStringArray("animation")]
+script = ExtResource("1_8soms")
+animation = NodePath("AnimatedSprite2D")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_cgi3i")
-animation = &"idle"
-frame_progress = 0.616095
+animation = &"run"
+frame_progress = 0.0879319
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, 3)
