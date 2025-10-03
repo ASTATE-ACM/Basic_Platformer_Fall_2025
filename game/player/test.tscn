@@ -1,0 +1,38 @@
+[gd_scene load_steps=2 format=3 uid="uid://ih4cyfhq4wrc"]
+
+[ext_resource type="PackedScene" uid="uid://dwee8kavmrgih" path="res://game/player/player.tscn" id="1_ngjxm"]
+
+[node name="Test" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_ngjxm")]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="Polygon2D" type="Polygon2D" parent="StaticBody2D"]
+polygon = PackedVector2Array(-64, 16, 64, 16, 64, 40, -64, 40)
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+polygon = PackedVector2Array(-64, 16, 64, 16, 64, 40, -64, 40)
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="."]
+position = Vector2(-8, 32)
+rotation = 1.5708
+
+[node name="Polygon2D" type="Polygon2D" parent="StaticBody2D2"]
+polygon = PackedVector2Array(-64, 16, 64, 16, 64, 40, -64, 40)
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D2"]
+polygon = PackedVector2Array(-64, 16, 64, 16, 64, 40, -64, 40)
+
+[node name="StaticBody2D3" type="StaticBody2D" parent="."]
+position = Vector2(8, 0)
+rotation = -1.5708
+
+[node name="Polygon2D" type="Polygon2D" parent="StaticBody2D3"]
+polygon = PackedVector2Array(-64, 16, 64, 16, 64, 40, -64, 40)
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D3"]
+polygon = PackedVector2Array(-64, 16, 64, 16, 64, 40, -64, 40)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(1.94, 1.94)
